@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+European+Bank+Churn+Analysis;📊+Interactive+Streamlit+Dashboard;🐍+Python+%7C+Pandas+%7C+Plotly+%7C+Seaborn;📈+EDA+%7C+KPIs+%7C+Business+Insights)](https://dataanlysisproject01-europeanbank.streamlit.app/)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dataanlysisproject01-europeanbank.streamlit.app/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dataanalysisproject-01-europeanbank.streamlit.app/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
@@ -15,7 +15,7 @@
 
 ## 🌊 Live Dashboard
 
-[![🚀 Launch Dashboard](https://img.shields.io/badge/🚀%20Launch%20Live%20Dashboard-Click%20Here-00D4FF?style=for-the-badge&labelColor=0f2027)](https://dataanlysisproject01-europeanbank.streamlit.app/)
+[![🚀 Launch Dashboard](https://img.shields.io/badge/🚀%20Launch%20Live%20Dashboard-Click%20Here-00D4FF?style=for-the-badge&labelColor=0f2027)](https://dataanalysisproject-01-europeanbank.streamlit.app/)
 
 > **Fully interactive** • **No installation required** • **Real-time exploration**
 
@@ -211,7 +211,7 @@ jupyter notebook
 streamlit run dashboard/app.py
 ```
 
-> 🌐 Or simply visit the **[Live Dashboard](https://dataanlysisproject01-europeanbank.streamlit.app/)** — no setup required!
+> 🌐 Or simply visit the **[Live Dashboard](https://dataanalysisproject-01-europeanbank.streamlit.app/)** — no setup required!
 
 ---
 
@@ -272,7 +272,7 @@ Contributions, issues, and feature requests are welcome!
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-techwithabhi.github.io-00D4FF?style=for-the-badge&labelColor=0f2027)](https://techwithabhi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-techwithabhi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techwithabhi/)
 [![Instagram](https://img.shields.io/badge/Instagram-i__am__abhi__sarkar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_am_abhi_sarkar/)
-[![Dashboard](https://img.shields.io/badge/🚀%20Live%20App-European%20Bank%20Dashboard-FF4B4B?style=for-the-badge)](https://dataanlysisproject01-europeanbank.streamlit.app/)
+[![Dashboard](https://img.shields.io/badge/🚀%20Live%20App-European%20Bank%20Dashboard-FF4B4B?style=for-the-badge)](https://dataanalysisproject-01-europeanbank.streamlit.app/)
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn)](https://techwithabhi.github.io/)
 
