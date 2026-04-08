@@ -1,0 +1,2 @@
+cd dashboard
+streamlit run app.py
